@@ -1,18 +1,17 @@
 <div align="center">
 
-# Dylan Porter
+# Dylan Pooper
 
-**Full Stack & AI Dev · CS @ HKU · IBM Z Student Ambassador**
+**Shameless vibecoder · Software Engineering @ HKU · IBM Z Student Ambassador**
 
 Contract developer building production AI systems for startups across sourcing, healthcare, and EdTech.
-I care about shipping things that actually work at scale.
-
+I don't go to class.
 ---
 
 ### Where I work
 
-**Full Stack AI Engineer** — [Collective Global](https://collectiveglobal.net)<br>
-End-to-end AI for startup clients: LLM pipelines, AWS infra, React/TypeScript frontends.
+**My room** — [Collective Global](https://collectiveglobal.net)<br>
+Ricci hall is awesome. It's cheap and there's a canteen.
 
 **Coding Instructor** — [BSD Education](https://bsd.education)<br>
 Web dev, Python, AI, game dev · 100+ students aged 7–14.
